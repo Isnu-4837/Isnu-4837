@@ -11,7 +11,7 @@ When I'm not writing code or studying, you'll likely find me learning Japanese! 
 * **Backend Engineering:** Spring Boot (Java), FastAPI (Python)
 * **Frontend & Desktop:** React, Vite, Tailwind CSS, Electron
 * **Currently Exploring:** Artificial Intelligence & Machine Learning foundations
-* **Databases & Tools:** SQLite, PostgreSQL, Docker, Git, AWS
+* **Databases & Tools:** SQLite, PostgreSQL, MySQL, Oracle, Docker, Git, AWS
 * **Hobby:** learning Japanese (日本語の勉強中)
 
 ---
