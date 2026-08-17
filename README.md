@@ -40,7 +40,7 @@ When I'm not writing code or studying, you'll likely find me learning Japanese! 
 * **Frontend & Desktop:** React, Vite, Tailwind CSS, Electron
 * **Databases & Tools:** SQLite, PostgreSQL, MySQL, Oracle, Docker, Git, AWS
 * **Currently Exploring:** Artificial Intelligence & Machine Learning foundations
-* **Hobby:** Learning Japanese (日本語の勉強中)
+* **Hobby:** Learning Japanese
 
 ---
 
